@@ -1,0 +1,10 @@
+A, masonry, 7, -
+B, roofstructure, 3, A
+C, roof, 1, B
+D, Plumbingelectricity, 8, A
+E, Facades, 2, C, D
+F, windows, 1, C, D
+G, gardens, 1, C, D
+H, ceilings, 3, F
+I, paintings, 2, H
+J, movingin, 1, E, G, I
